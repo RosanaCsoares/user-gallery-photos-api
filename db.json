@@ -1,14 +1,3 @@
-🚀 JSON Atualizado com 50 Novas Fotos (Álbum ID 1 a 15)
-O arquivo JSON foi atualizado com mais 50 fotos, totalizando 73 entradas.
-
-Os IDs das fotos continuam sequencialmente de 24 a 73.
-
-O ID do Álbum (albumId) das novas fotos agora cicla de 1 a 15, conforme solicitado.
-
-Aqui está o conteúdo completo:
-
-JSON
-
 {
     "photos": [
         {
