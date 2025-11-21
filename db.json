@@ -9,7 +9,7 @@
             "date": "2023-10-01"
         },
         {
-            "albumId": 10,
+            "albumId": 1,
             "id": 2,
             "title": "Foto do Álbum 10",
             "url": "https://picsum.photos/600/600?random=2",
@@ -17,7 +17,7 @@
             "date": "2023-10-05"
         },
         {
-            "albumId": 10,
+            "albumId": 1,
             "id": 3,
             "title": "Outra foto do Álbum 10",
             "url": "https://picsum.photos/600/600?random=3",
@@ -33,7 +33,7 @@
             "date": "2024-01-15"
         },
         {
-            "albumId": 2,
+            "albumId": 1,
             "id": 5,
             "title": "Pôr do sol no Álbum 2",
             "url": "https://picsum.photos/600/600?random=5",
@@ -41,7 +41,7 @@
             "date": "2024-02-20"
         },
         {
-            "albumId": 1,
+            "albumId": 2,
             "id": 6,
             "title": "Foto em preto e branco do Álbum 1",
             "url": "https://picsum.photos/600/600?random=6",
@@ -49,7 +49,7 @@
             "date": "2024-03-01"
         },
         {
-            "albumId": 3,
+            "albumId": 2,
             "id": 7,
             "title": "Primeira foto do Álbum 3",
             "url": "https://picsum.photos/600/600?random=7",
@@ -57,7 +57,7 @@
             "date": "2024-03-10"
         },
         {
-            "albumId": 7,
+            "albumId": 2,
             "id": 8,
             "title": "Detalhe de arquitetura no Álbum 7",
             "url": "https://picsum.photos/600/600?random=8",
@@ -65,7 +65,7 @@
             "date": "2024-04-05"
         },
         {
-            "albumId": 9,
+            "albumId": 2,
             "id": 9,
             "title": "Selfie animada no Álbum 9",
             "url": "https://picsum.photos/600/600?random=9",
@@ -73,7 +73,7 @@
             "date": "2024-04-22"
         },
         {
-            "albumId": 4,
+            "albumId": 3,
             "id": 10,
             "title": "Início do Álbum 4",
             "url": "https://picsum.photos/600/600?random=10",
@@ -81,7 +81,7 @@
             "date": "2024-05-01"
         },
         {
-            "albumId": 5,
+            "albumId": 3,
             "id": 11,
             "title": "Comida deliciosa no Álbum 5",
             "url": "https://picsum.photos/600/600?random=11",
@@ -89,7 +89,7 @@
             "date": "2024-05-15"
         },
         {
-            "albumId": 6,
+            "albumId": 4,
             "id": 12,
             "title": "Encontro com amigos no Álbum 6",
             "url": "https://picsum.photos/600/600?random=12",
@@ -97,7 +97,7 @@
             "date": "2024-06-03"
         },
         {
-            "albumId": 8,
+            "albumId": 4,
             "id": 13,
             "title": "Segunda foto do Álbum 8",
             "url": "https://picsum.photos/600/600?random=13",
@@ -105,7 +105,7 @@
             "date": "2024-06-18"
         },
         {
-            "albumId": 9,
+            "albumId": 4,
             "id": 14,
             "title": "Animal de estimação no Álbum 9",
             "url": "https://picsum.photos/600/600?random=14",
@@ -113,7 +113,7 @@
             "date": "2024-07-01"
         },
         {
-            "albumId": 5,
+            "albumId": 3,
             "id": 15,
             "title": "Céu estrelado no Álbum 5",
             "url": "https://picsum.photos/600/600?random=15",
