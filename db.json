@@ -1,0 +1,191 @@
+Com certeza! Aqui está o objeto JSON com mais 20 itens adicionados, seguindo a mesma estrutura e distribuídos em álbuns (principalmente 1 e 2, com alguns no 3 e 4 para variedade):
+
+JSON
+
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Primeira foto do Álbum 1",
+      "url": "https://picsum.photos/600/600?random=1",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=1",
+      "date": "2023-10-01"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Segunda foto do Álbum 1",
+      "url": "https://picsum.photos/600/600?random=2",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=2",
+      "date": "2023-10-05"
+    },
+    {
+      "albumId": 2,
+      "id": 3,
+      "title": "Foto inicial do Álbum 2",
+      "url": "https://picsum.photos/600/600?random=3",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=3",
+      "date": "2023-11-10"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "Registro de viagem no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=4",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=4",
+      "date": "2024-01-15"
+    },
+    {
+      "albumId": 2,
+      "id": 5,
+      "title": "Pôr do sol inspirador no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=5",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=5",
+      "date": "2024-02-20"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "Foto em preto e branco do Álbum 1",
+      "url": "https://picsum.photos/600/600?random=6",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=6",
+      "date": "2024-03-01"
+    },
+    {
+      "albumId": 3,
+      "id": 7,
+      "title": "Primeira foto do Álbum 3 - Paisagem",
+      "url": "https://picsum.photos/600/600?random=7",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=7",
+      "date": "2024-03-10"
+    },
+    {
+      "albumId": 2,
+      "id": 8,
+      "title": "Detalhe de arquitetura no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=8",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=8",
+      "date": "2024-04-05"
+    },
+    {
+      "albumId": 1,
+      "id": 9,
+      "title": "Selfie animada no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=9",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=9",
+      "date": "2024-04-22"
+    },
+    {
+      "albumId": 4,
+      "id": 10,
+      "title": "Início do Álbum 4 - Evento",
+      "url": "https://picsum.photos/600/600?random=10",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=10",
+      "date": "2024-05-01"
+    },
+    {
+      "albumId": 2,
+      "id": 11,
+      "title": "Comida deliciosa no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=11",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=11",
+      "date": "2024-05-15"
+    },
+    {
+      "albumId": 1,
+      "id": 12,
+      "title": "Encontro com amigos no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=12",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=12",
+      "date": "2024-06-03"
+    },
+    {
+      "albumId": 3,
+      "id": 13,
+      "title": "Segunda foto do Álbum 3 - Montanhas",
+      "url": "https://picsum.photos/600/600?random=13",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=13",
+      "date": "2024-06-18"
+    },
+    {
+      "albumId": 2,
+      "id": 14,
+      "title": "Animal de estimação no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=14",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=14",
+      "date": "2024-07-01"
+    },
+    {
+      "albumId": 1,
+      "id": 15,
+      "title": "Céu estrelado no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=15",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=15",
+      "date": "2024-07-10"
+    },
+    {
+      "albumId": 2,
+      "id": 16,
+      "title": "Dia de praia no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=16",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=16",
+      "date": "2024-08-05"
+    },
+    {
+      "albumId": 1,
+      "id": 17,
+      "title": "Foto de arte urbana no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=17",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=17",
+      "date": "2024-08-19"
+    },
+    {
+      "albumId": 4,
+      "id": 18,
+      "title": "Destaque do evento no Álbum 4",
+      "url": "https://picsum.photos/600/600?random=18",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=18",
+      "date": "2024-09-01"
+    },
+    {
+      "albumId": 2,
+      "id": 19,
+      "title": "Natureza exuberante no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=19",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=19",
+      "date": "2024-09-12"
+    },
+    {
+      "albumId": 1,
+      "id": 20,
+      "title": "Foto noturna no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=20",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=20",
+      "date": "2024-10-01"
+    },
+    {
+      "albumId": 2,
+      "id": 21,
+      "title": "Reflexo na água no Álbum 2",
+      "url": "https://picsum.photos/600/600?random=21",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=21",
+      "date": "2024-10-15"
+    },
+    {
+      "albumId": 3,
+      "id": 22,
+      "title": "Foto de flor no Álbum 3",
+      "url": "https://picsum.photos/600/600?random=22",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=22",
+      "date": "2024-11-01"
+    },
+    {
+      "albumId": 1,
+      "id": 23,
+      "title": "Foto de rua no Álbum 1",
+      "url": "https://picsum.photos/600/600?random=23",
+      "thumbnailUrl": "https://picsum.photos/150/150?random=23",
+      "date": "2024-11-20"
+    }
+  ]
